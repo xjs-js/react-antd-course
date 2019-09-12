@@ -9,7 +9,7 @@ export default () => {
     };
     return (
         <Card style={style} hoverable={true}>
-            <p>Hello, world!</p>
+            <p>Hello, World!</p>
         </Card>
     );
 }

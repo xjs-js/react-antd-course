@@ -13,5 +13,11 @@
   "license": "ISC",
   "devDependencies": {
     "umi": "^2.9.3"
+  },
+  "dependencies": {
+    "@antv/g2": "^3.5.8-beta.3",
+    "antd": "^3.23.1",
+    "umi-plugin-react": "^1.9.19",
+    "umi-request": "^1.2.4"
   }
 }
